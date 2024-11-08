@@ -1,1 +1,6 @@
 @@||s.youtube.com^$document
+@@||www.youtube.com^$document
+@@||*.youtube.com^$document
+@@|s.youtube.com^$document
+@@|www.youtube.com^$document
+@@|*.youtube.com^$document
