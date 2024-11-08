@@ -6,4 +6,4 @@ Usage
 3. Click the hamburger menu of AdGuardHome
 4. Select "DNS allowlists" under "Filters"
 5. Click "Add allowlist"
-6. Enter a Name and ""
+6. Enter a Name and "https://raw.githubusercontent.com/Sergey842248/AdGuardHome-Custom-Allow-List/refs/heads/main/whitelist.txt"
