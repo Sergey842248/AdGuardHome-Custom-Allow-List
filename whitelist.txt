@@ -1,6 +1,4 @@
 @@||s.youtube.com^$important
 @@||www.youtube.com^$important
 @@||*.youtube.com^$important
-@@|s.youtube.com^$important
-@@|www.youtube.com^$important
-@@|*.youtube.com^$important
+
