@@ -1,4 +1,4 @@
 @@||s.youtube.com^$important
 @@||www.youtube.com^$important
 @@||*.youtube.com^$important
-
+@@||*googleadservices.com
