@@ -3,3 +3,4 @@
 @@||*.youtube.com^$important
 @@|*.googleadservices.com^$important
 @@|www.googleadservices.com^$important
+@@|de.googleadservices.com^$important
