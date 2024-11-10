@@ -1,5 +1,5 @@
 @@||s.youtube.com^$important
 @@||www.youtube.com^$important
 @@||*.youtube.com^$important
-@@||*.googleadservices.com^$important
-@@||www.googleadservices.com^$important
+@@|*.googleadservices.com^$important
+@@|www.googleadservices.com^$important
