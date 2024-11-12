@@ -1,3 +1,5 @@
 @@||s.youtube.com^$important
 @@||www.youtube.com^$important
 @@||*.youtube.com^$important
+@@||www.facebook.com^$important
+@@||*.facebook.com^$important
