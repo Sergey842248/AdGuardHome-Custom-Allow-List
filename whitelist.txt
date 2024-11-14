@@ -5,3 +5,4 @@
 @@||*.facebook.com^$important
 @@||scs.samsungqbe.com^$important
 @@||mobile.launchdarkly.com^$important
+@@||osb-v2.samsungqbe.com^$important
