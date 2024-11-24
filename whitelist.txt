@@ -8,3 +8,4 @@
 @@||mobile.launchdarkly.com^$important
 @@||s.click.aliexpress.com^$important
 @@||m.yap.yahoo.com^$important
+@@||finance.yahoo.com^$important
