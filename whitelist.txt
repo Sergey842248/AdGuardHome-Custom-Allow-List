@@ -7,3 +7,4 @@
 @@||osb-v2.samsungqbe.com^$important
 @@||mobile.launchdarkly.com^$important
 @@||s.click.aliexpress.com^$important
+@@||finance.yahoo.com^$important
