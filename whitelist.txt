@@ -9,3 +9,5 @@
 @@||s.click.aliexpress.com^$important
 @@||udc.yahoo.com^$important
 @@||cdn.hubblecontent.osi.office.net^$important
+@@||hubblecontent.osi.office.net^$important
+@@||self.events.data.microsoft.com^$important
