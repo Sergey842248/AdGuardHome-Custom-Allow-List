@@ -8,3 +8,4 @@
 @@||mobile.launchdarkly.com^$important
 @@||s.click.aliexpress.com^$important
 @@||udc.yahoo.com^$important
+@@||cdn.hubblecontent.osi.office.net^$important
