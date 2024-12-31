@@ -1,6 +1,6 @@
-# AdGuardHome-Custom-Allow-List
+# AdGuardHome Custom Allow-List
 
-Usage
+Usage:
 1. Open your AdGuard IP
 2. Click the hamburger menu of AdGuardHome
 3. Select "DNS allowlists" under "Filters"
