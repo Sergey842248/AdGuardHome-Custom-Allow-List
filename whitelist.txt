@@ -12,3 +12,4 @@
 @@||hubblecontent.osi.office.net^$important
 @@||self.events.data.microsoft.com^$important
 @@||eu-mobile.events.data.microsoft.com^$important
+@@||gfs204n124.userstorage.mega.co.nz^$important
