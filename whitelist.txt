@@ -14,3 +14,4 @@
 @@||eu-mobile.events.data.microsoft.com^$important
 @@||gfs204n124.userstorage.mega.co.nz^$important
 @@||mcd270n310.karere.mega.nz^$important
+@@||filecr.com^$important
