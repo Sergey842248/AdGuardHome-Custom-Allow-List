@@ -16,4 +16,4 @@
 @@||mcd270n310.karere.mega.nz^$important
 @@||filecr.com^$important
 @@||g.api.mega.co.nz^$important
-@@||youtube.com ^$important
+@@||youtube.* ^$important
