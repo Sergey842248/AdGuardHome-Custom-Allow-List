@@ -17,3 +17,4 @@
 @@||filecr.com^$important
 @@||g.api.mega.co.nz^$important
 @@||youtube.* ^$important
+@@||*.samsungapps.com ^$important
